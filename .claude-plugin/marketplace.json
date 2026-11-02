@@ -1,0 +1,5 @@
+{
+  "name": "stats-card",
+  "owner": { "name": "MrCakeguy123" },
+  "plugins": [{ "name": "stats-card", "source": "./" }]
+}

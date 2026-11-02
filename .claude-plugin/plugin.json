@@ -1,0 +1,7 @@
+{
+  "name": "stats-card",
+  "version": "0.1.0",
+  "description": "The usage stats card from the old new-session screen: sessions, messages, tokens, peak hour, favorite model and an activity heatmap.",
+  "author": { "name": "MrCakeguy123" },
+  "types": "./types/index.d.ts"
+}
