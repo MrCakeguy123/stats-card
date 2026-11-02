@@ -6,8 +6,6 @@ It is a panel, not part of the new-session screen, because mods can't draw on th
 
 The numbers are counted on your computer from the transcripts in `~/.claude/projects`, and nothing is sent anywhere. It needs Node on your PATH.
 
-Known issue: the panel has closed once after pressing Models, and the cause isn't known yet. `/stats-card` reopens it.
-
 ## Install
 
 At the prompt of a terminal session:
